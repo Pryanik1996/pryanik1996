@@ -17,5 +17,5 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=62d9fb)]()
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vkontakte&logoColor=0d2592)]()
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pryanik1996&show_icons=true?theme=dark)](https://github.com/Pryanik1996/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pryanik1996&show_icons=true?theme=gruvbox)](https://github.com/Pryanik1996/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pryanik1996)](https://github.com/Pryanik1996/github-readme-stats)
