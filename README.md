@@ -11,3 +11,8 @@
 ![Mongoose](https://img.shields.io/badge/-Mongoose-090909?style=for-the-badge&logo=Mongoose&logoColor=852014)
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js&logoColor=90ee90)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=6e40b3)
+
+### Follow me
+
+![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=62d9fb)
+![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vkontakte&logoColor=0d2592)
